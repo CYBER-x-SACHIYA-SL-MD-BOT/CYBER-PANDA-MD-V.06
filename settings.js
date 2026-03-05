@@ -22,9 +22,9 @@ global.APIs = {
 
 // Other
 global.apikey = 'bf2d2cf29b3edc604b447983';
-global.ownername = 'ᴠᴀᴊɪʀᴀ ʀᴀᴛʜɴᴀʏᴀᴋᴀ';
-global.owner = ['94702782946','94702782946'];
-global.premium = ['94702782946','94702782946'];
+global.ownername = 'Sachith';
+global.owner = ['94783552317','94783552317'];
+global.premium = ['94783552317','94783552317'];
 global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
 global.author = '🐼 ＣＹＢＥＲ-ＰＡＮＤＡ-ＭＤ 🐼';
 global.caption = '🐼 𝐂𝐘𝐁𝐄𝐑--𝐏𝐀𝐍𝐃𝚫--𝚩𝚯𝚻𝐖𝚫 🐼';
